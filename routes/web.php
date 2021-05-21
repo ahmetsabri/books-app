@@ -23,7 +23,7 @@ Route::get('/dashboard', function () {
 
 
 Route::get('/book', function () {
-    return 123;
+    return view('books.edit');
 })->middleware(['auth'])->name('books');
 
 
