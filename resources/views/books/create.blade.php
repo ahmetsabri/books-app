@@ -11,6 +11,7 @@
                 </div>
 
                 <div class="form-group">
+                <label>Author</label>
                     <select name="author" class="form-control">
                         <option value="Author">Name</option>
                         <option value="Author">Name</option>
